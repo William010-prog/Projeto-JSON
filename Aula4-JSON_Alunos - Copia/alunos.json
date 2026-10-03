@@ -1,0 +1,51 @@
+[
+    {
+        "id":1,
+        "nome": "Silvio Florentino",
+        "idade": 50,
+        "curso": "Informática para Internet",
+        "nota": 2
+    },
+    {
+        "id":2,
+        "nome": "Ester Fidelis",
+        "idade": 18,
+        "curso": "Infonet",
+        "nota": 8
+    },
+    {
+        "id":3,
+        "nome": "Giovanna Lopes",
+        "idade": 22,
+        "curso": "Administração",
+        "nota": 9.9
+    },
+    {
+        "id":4,
+        "nome": "Pedro Paulo",
+        "idade": 16,
+        "curso": "Mecâtronica",
+        "nota": 1.9
+    },
+    {
+        "id":5,
+        "nome": "Lucas Guedes",
+        "idade": 17,
+        "curso": "Artes Digitais",
+        "nota": 6.6
+    },
+    {
+        "id":6,
+        "nome": "Ana Silva",
+        "idade": 24,
+        "curso": "Medicina",
+        "nota": 2.0
+    },
+    {
+        "id":7,
+        "nome": "Akira Nakata",
+        "idade": 16,
+        "curso": "Desenvolvimento de Sistemas",
+        "nota": 0.5
+    }
+]
